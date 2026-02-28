@@ -1,4 +1,11 @@
 # 疯狂的鸽子 (Crazy Pigeon) 游戏使用说明
+<img width="355" height="754" alt="image" src="https://github.com/user-attachments/assets/24ec88c3-d8ee-40d6-ba62-7a22f69980d1" />
+<img width="356" height="773" alt="image" src="https://github.com/user-attachments/assets/f13b4786-6162-44a1-8dce-c8e24b96bea8" />
+<img width="344" height="755" alt="image" src="https://github.com/user-attachments/assets/1b1cb78a-a788-4fb2-8d9b-a351beac1188" />
+<img width="356" height="773" alt="image" src="https://github.com/user-attachments/assets/265c6476-fc62-43f5-bbc1-05a91695dc0f" />
+
+
+
 
 ## 1. 游戏简介
 
